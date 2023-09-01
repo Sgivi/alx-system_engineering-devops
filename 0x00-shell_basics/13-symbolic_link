@@ -1,0 +1,3 @@
+#!/bin/bash
+pwd
+ln -s /bin/ls __ls__
